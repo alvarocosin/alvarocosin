@@ -1,9 +1,10 @@
 <div id="header" align="center">
     <h1 align="center">👋 Hi there, I'm Álvaro</h1>
-    <h3 align="center">
+    <h4 align="center">
         A passionate fullstack .NET developer from Spain. Experienced in desktop and mobile apps development and very interested in AI and Data Engineering. Eager to learn everyday new languages and technologies.
-    </h3>
+    </h4>
 </div>
+
 ---
 
 ### 👨‍💻 About me:
@@ -11,7 +12,7 @@
 - 📫 How to reach me: **cosin.alvaro@gmail.com**
 - 🌐 Working on my portfolio: [alvarocosin.github.io](alvarocosin.github.io)
 - 🌱 I'm currently learning **Flutter, Selenium, Kotlin**
----
+
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>

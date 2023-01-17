@@ -8,9 +8,9 @@
 ---
 
 ### 👨‍💻 About me:
-- 💬 Ask me about **C#, .NET, Python, Excel, Web scraping, Java**
+- 💬 Ask me about **C#, .NET, Python, Linux, Java, Web scraping, Excel**
 - 📫 How to reach me: **cosin.alvaro@gmail.com**
-- 🌐 Working on my portfolio: [alvarocosin.github.io](alvarocosin.github.io)
+- 🌐 Working on my portfolio: [alvarocosin.github.io](alvarocosin.github.io) and the projects below 👇
 - 🌱 I'm currently learning **Flutter, Selenium, Kotlin**
 
 <div align="left">

@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">👋 Hi there, I'm Álvaro</h1>
     <h4 align="center">
-        A passionate fullstack .NET developer from Spain. Experienced in desktop and mobile apps development and very interested in AI and Data Engineering. Eager to learn everyday new languages and technologies.
+        A passionate fullstack developer from Spain. Experienced in desktop and mobile apps and very interested in AI and Data Engineering. Eager to learn everyday new languages and technologies.
     </h4>
 </div>
 
